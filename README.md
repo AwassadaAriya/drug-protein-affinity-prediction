@@ -38,6 +38,16 @@ The general workflow includes:
 4. Train and evaluate the model
 5. Compare model performance across experiments
 
+## What to Review
+
+For a quick overview of the project:
+
+1. Start with [`01_affinity_model_comparison.ipynb`](01_affinity_model_comparison.ipynb)
+   for the final comparison of multiple affinity prediction models.
+
+2. See [`02_bilinear_model.ipynb`](02_bilinear_model.ipynb)
+   for a deeper look at the bilinear modeling approach.
+
 ## Repository
 
 `notebooks/`
